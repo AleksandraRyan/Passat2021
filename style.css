@@ -63,7 +63,7 @@ p {
   text-align: center;
   background: black;
   color: aliceblue;
-  padding: 18px;
+  padding: 29px;
 }
 
 h3 {
@@ -85,7 +85,6 @@ h3 {
 
 .icon:hover {
   color: rgb(11, 167, 167);
-
   cursor: pointer;
 }
 
